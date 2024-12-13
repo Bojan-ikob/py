@@ -37,6 +37,8 @@ print(f"movies: {movies.title}")
 print(f"find_one primer: {collection.find_one()}")
 print(f"find_one(params) primer: {collection.find_one({"name":"Khal Drogo"})}")
 
+print("hello")
+
 
 
 
